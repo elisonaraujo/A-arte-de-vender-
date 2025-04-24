@@ -1,0 +1,3 @@
+git remoto adicionar origem https://github.com/elisonaraujo/A-arte-de-vender.git
+ git branch -M main 
+git push -u origin main
